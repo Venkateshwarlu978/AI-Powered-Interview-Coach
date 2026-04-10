@@ -1,4 +1,4 @@
-```txt
+gtts
 streamlit
 google-generativeai
 python-dotenv
