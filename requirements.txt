@@ -1,0 +1,6 @@
+```txt
+streamlit
+google-generativeai
+python-dotenv
+speechrecognition
+pydub
