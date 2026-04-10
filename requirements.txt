@@ -3,4 +3,5 @@ streamlit
 google-generativeai
 python-dotenv
 speechrecognition
+streamlit-mic-recorder
 pydub
